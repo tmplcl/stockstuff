@@ -1,0 +1,7 @@
+
+Application/.classpath
+Application/.project
+Application/.settings/*
+Application/target/*
+.vscode/launch.json
+.vscode/settings.json
